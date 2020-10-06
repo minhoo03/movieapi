@@ -1,0 +1,9 @@
+{
+  "name": "movieapi",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/minhoo03/movieapi.git",
+  "author": "minhoo03",
+  "license": "MIT"
+}
